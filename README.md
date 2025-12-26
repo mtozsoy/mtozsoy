@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mtozsoy" alt="mtozsoy" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Java, Ethical Hacking, Adobe Photoshop etc.**
+- 🌱 I’m currently learning **Python, Java and trying to working on AI**
 
 - 📫 How to reach me **emrullahmeteozsoy9@gmail.com**
 
